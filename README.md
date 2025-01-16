@@ -2,6 +2,11 @@
 
 A modern, accessible cookie consent banner for Next.js applications. Built with NextUI and TypeScript, featuring dark mode support and granular cookie preference controls.
 
+## Demo
+
+Check out the live demo at [cookie-wise.vercel.app](https://cookie-wise.vercel.app/)
+
+
 ## Features
 
 - 🎨 Beautiful UI with NextUI components
